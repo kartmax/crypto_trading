@@ -1,0 +1,25 @@
+/node_modules/
+/.git/
+/app/css/
+/**/*.psd
+/**/Thumbs.db
+/**/*.DS_Store
+
+/app/
+
+# /dist/
+/manifest/
+
+# Arhivs
+/**/*.rar
+/**/*.zip
+
+# PhpStorm
+/.idea/
+
+.bowerrc
+favicons-loyaut.sketch
+gulpfile.js 
+package-lock.json 
+package.json
+readme.md
